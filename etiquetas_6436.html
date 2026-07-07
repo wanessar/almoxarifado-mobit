@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MOBIT · Gerador de Etiquetas</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#14181c; --bg-raised:#1c2126; --bg-card:#20262c; --line:#333b42;
+    --text:#edf0f2; --text-dim:#9aa4ac; --accent:#ff6a1a;
+  }
+  *{box-sizing:border-box;}
+  body{ margin:0; background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; }
+  header{ padding:20px; border-bottom:1px solid var(--line); background:var(--bg-raised); }
+  h1{ font-family:'Oswald',sans-serif; text-transform:uppercase; font-size:20px; margin:0 0 6px; }
+  p.sub{ color:var(--text-dim); font-size:13px; margin:0; max-width:640px; line-height:1.5; }
+
+  .controls{
+    max-width:900px; margin:0 auto; padding:20px;
+    display:flex; flex-wrap:wrap; gap:12px; align-items:flex-end;
+  }
+  .field{ display:flex; flex-direction:column; gap:6px; flex:1; min-width:220px; }
+  .field label{ font-size:12px; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.05em; }
+  .field input{
+    background:var(--bg-card); border:1.5px solid var(--line); border-radius:10px;
+    color:var(--text); padding:11px 12px; font-size:14px; font-family:ui-monospace,monospace;
+  }
+  .field input:focus{ outline:none; border-color:var(--accent); }
+  button{
+    background:var(--accent); color:#171a1d; border:none; border-radius:10px;
+    font-family:'Oswald',sans-serif; font-weight:600; text-transform:uppercase;
+    letter-spacing:0.04em; font-size:13px; padding:12px 18px; cursor:pointer;
+  }
+  button.secundario{ background:transparent; color:var(--text); border:1.5px solid var(--line); }
+
+  #status{ max-width:900px; margin:0 auto; padding:0 20px 10px; color:var(--text-dim); font-size:13px; }
+
+  #folha{
+    max-width:900px; margin:0 auto; padding:0 20px 60px;
+    display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:14px;
+  }
+
+  .etiqueta{
+    background:#fff; color:#111; border-radius:8px; overflow:hidden;
+    display:flex; flex-direction:column; border:1px solid #d8d8d8;
+  }
+  .et-topo{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:8px 10px; background:#111; color:#fff;
+  }
+  .et-logo{ font-family:'Oswald',sans-serif; font-weight:700; font-size:13px; letter-spacing:0.05em; }
+  .et-codigo{ font-family:ui-monospace,monospace; font-size:11px; color:#ff6a1a; font-weight:700; }
+  .et-corpo{ display:flex; gap:10px; padding:10px; align-items:center; }
+  .et-qr{ width:76px; height:76px; flex-shrink:0; }
+  .et-qr img{ width:100%; height:100%; }
+  .et-desc{ font-size:11.5px; line-height:1.3; font-weight:600; }
+  .et-endereco{
+    font-family:ui-monospace,monospace; font-size:10.5px; color:#444;
+    padding:6px 10px; border-top:1px solid #eaeaea; background:#fafafa;
+  }
+
+  @media print{
+    header, .controls, #status{ display:none; }
+    body{ background:#fff; }
+    #folha{ max-width:none; padding:10px; gap:8px; }
+    .etiqueta{ break-inside:avoid; border:1px solid #999; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Gerador de etiquetas de identificação</h1>
+  <p class="sub">Gera uma etiqueta por posição, com logo, código, descrição e QR Code apontando para a consulta.
+  Informe abaixo o endereço do site já publicado (GitHub Pages) e clique em "Gerar etiquetas". Depois use Ctrl+P / Cmd+P para imprimir.</p>
+</header>
+
+<div class="controls">
+  <div class="field">
+    <label for="baseUrl">Endereço do site publicado</label>
+    <input id="baseUrl" type="text" placeholder="https://seuusuario.github.io/seu-repositorio/" value="">
+  </div>
+  <button id="gerar">Gerar etiquetas</button>
+  <button class="secundario" onclick="window.print()">Imprimir / salvar PDF</button>
+</div>
+<div id="status"></div>
+
+<div id="folha"></div>
+
+<script>
+async function gerar(){
+  const status = document.getElementById('status');
+  const folha = document.getElementById('folha');
+  let baseUrl = document.getElementById('baseUrl').value.trim();
+  if(!baseUrl){
+    status.textContent = 'Informe o endereço do site antes de gerar as etiquetas.';
+    return;
+  }
+  if(!baseUrl.endsWith('/')) baseUrl += '/';
+
+  folha.innerHTML = '';
+  status.textContent = 'Carregando produtos...';
+
+  const res = await fetch('produtos.json', {cache:'no-store'});
+  const produtos = await res.json();
+
+  status.textContent = `Gerando ${produtos.length} etiqueta(s)...`;
+
+  produtos.forEach(p => {
+    const url = `${baseUrl}?codigo=${encodeURIComponent(p.codigo)}`;
+    const end = (p.enderecos && p.enderecos[0]) || {};
+    const enderecoTexto = [
+      end.zona, end.rua ? `Rua ${end.rua}` : null, end.bloco ? `Bloco ${end.bloco}` : null,
+      end.nivel, end.posicao ? `Posição ${end.posicao}` : null
+    ].filter(Boolean).join(' · ');
+
+    const card = document.createElement('div');
+    card.className = 'etiqueta';
+    card.innerHTML = `
+      <div class="et-topo">
+        <span class="et-logo">MOBIT</span>
+        <span class="et-codigo">${p.codigo}</span>
+      </div>
+      <div class="et-corpo">
+        <div class="et-qr" id="qr-${p.codigo}"></div>
+        <div class="et-desc">${p.descricao || 'Descrição não cadastrada'}</div>
+      </div>
+      <div class="et-endereco">${enderecoTexto || 'Sem endereço cadastrado'}</div>
+    `;
+    folha.appendChild(card);
+
+    new QRCode(document.getElementById(`qr-${p.codigo}`), {
+      text: url,
+      width: 150,
+      height: 150,
+      colorDark: "#111111",
+      colorLight: "#ffffff"
+    });
+  });
+
+  status.textContent = `${produtos.length} etiqueta(s) geradas. Use "Imprimir / salvar PDF" para exportar.`;
+}
+
+document.getElementById('gerar').addEventListener('click', gerar);
+</script>
+</body>
+</html>

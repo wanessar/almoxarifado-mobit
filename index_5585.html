@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title>MOBIT · Localização de Itens</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #14181c;
+    --bg-raised: #1c2126;
+    --bg-card: #20262c;
+    --line: #333b42;
+    --text: #edf0f2;
+    --text-dim: #9aa4ac;
+    --accent: #ff6a1a;
+    --accent-dim: #7a3812;
+    --ok: #2e9e4f;
+    --err: #e1372c;
+    --radius: 14px;
+
+    --zona-azul: #2e6fec;
+    --zona-amarela: #f2b400;
+    --zona-verde: #2e9e4f;
+    --zona-roxa: #7b4bc9;
+    --zona-vermelha: #e1372c;
+    --zona-cinza: #8a94a0;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, system-ui, sans-serif;
+    min-height:100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .hazard-strip{
+    height:6px;
+    width:100%;
+    background: repeating-linear-gradient(135deg, var(--accent) 0 14px, #1a1a1a 14px 28px);
+  }
+
+  header{
+    padding: 22px 20px 18px;
+    background: linear-gradient(180deg, var(--bg-raised), var(--bg));
+    border-bottom: 1px solid var(--line);
+  }
+
+  .brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+
+  .brand-mark{
+    width:34px;height:34px;
+    border-radius:8px;
+    background: var(--accent);
+    display:flex;align-items:center;justify-content:center;
+    font-family:'Oswald',sans-serif;
+    font-weight:700;
+    font-size:16px;
+    color:#14181c;
+    flex-shrink:0;
+  }
+
+  .brand-name{
+    font-family:'Oswald',sans-serif;
+    font-weight:600;
+    font-size:15px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color: var(--text-dim);
+  }
+
+  h1{
+    font-family:'Oswald', sans-serif;
+    font-weight:600;
+    font-size: 22px;
+    letter-spacing: 0.01em;
+    margin: 14px 0 2px;
+    text-transform: uppercase;
+  }
+
+  .subtitle{
+    color: var(--text-dim);
+    font-size: 13.5px;
+    margin: 0;
+  }
+
+  main{
+    max-width: 520px;
+    margin: 0 auto;
+    padding: 20px 18px 60px;
+  }
+
+  .search-box{
+    display:flex;
+    gap:8px;
+    margin-bottom: 22px;
+  }
+
+  #codigo{
+    flex:1;
+    background: var(--bg-card);
+    border: 1.5px solid var(--line);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: ui-monospace, 'SFMono-Regular', Consolas, monospace;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    padding: 14px 16px;
+    outline: none;
+    transition: border-color .15s ease;
+  }
+  #codigo:focus{ border-color: var(--accent); }
+  #codigo::placeholder{ color:#5b646c; font-family:'Inter',sans-serif; letter-spacing:normal; }
+
+  #buscar{
+    background: var(--accent);
+    color: #171a1d;
+    border: none;
+    border-radius: var(--radius);
+    font-family:'Oswald',sans-serif;
+    font-weight:600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0 20px;
+    cursor: pointer;
+    transition: transform .1s ease, background .15s ease;
+  }
+  #buscar:active{ transform: scale(0.96); }
+
+  #estado-vazio{
+    text-align:center;
+    padding: 50px 20px;
+    color: var(--text-dim);
+  }
+  #estado-vazio svg{ opacity:0.35; margin-bottom: 14px; }
+  #estado-vazio p{ font-size: 14px; line-height:1.5; margin:0; }
+
+  #resultado{ display:none; }
+
+  .status-line{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size: 13px;
+    font-weight:600;
+    margin-bottom: 14px;
+  }
+  .status-line.ok{ color: var(--ok); }
+  .status-line.err{ color: var(--err); }
+  .dot{ width:7px;height:7px;border-radius:50%; background:currentColor; flex-shrink:0; }
+
+  .produto-card{
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 18px;
+    display:flex;
+    animation: fadeUp .25s ease;
+  }
+
+  @keyframes fadeUp{
+    from{ opacity:0; transform: translateY(6px); }
+    to{ opacity:1; transform: translateY(0); }
+  }
+
+  .produto-img{
+    width: 96px;
+    min-width:96px;
+    height: 96px;
+    background: #14181c;
+    display:flex;align-items:center;justify-content:center;
+    border-right: 1px solid var(--line);
+  }
+  .produto-img img{ width:100%; height:100%; object-fit:cover; }
+  .produto-img .sem-foto{
+    color:#4c555c;
+    font-size: 10px;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    font-weight:600;
+  }
+
+  .produto-info{
+    padding: 14px 16px;
+    flex:1;
+    min-width:0;
+  }
+
+  .produto-codigo{
+    font-family: ui-monospace, Consolas, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    font-weight:600;
+    letter-spacing: 0.04em;
+    margin: 0 0 4px;
+  }
+
+  .produto-desc{
+    font-size: 14.5px;
+    line-height:1.35;
+    margin:0;
+    font-weight: 500;
+  }
+
+  .enderecos-label{
+    font-family:'Oswald',sans-serif;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    font-size:12px;
+    color: var(--text-dim);
+    margin: 0 0 10px 2px;
+  }
+
+  .placa{
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    border-left: 6px solid var(--zona-verde);
+    margin-bottom: 12px;
+    overflow:hidden;
+  }
+
+  .placa-zona{
+    font-family:'Oswald',sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 7px 14px;
+    color: #14181c;
+    background: var(--zona-verde);
+  }
+
+  .placa-grid{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--line);
+  }
+
+  .placa-campo{
+    background: var(--bg-card);
+    padding: 12px 8px 10px;
+    text-align:center;
+  }
+
+  .placa-campo .val{
+    font-family: ui-monospace, Consolas, monospace;
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text);
+    line-height:1.1;
+  }
+  .placa-campo .lbl{
+    font-size: 9.5px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-top: 4px;
+  }
+
+  .placa-almox{
+    padding: 8px 14px;
+    font-size: 12px;
+    color: var(--text-dim);
+    border-top: 1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+  }
+
+  footer{
+    text-align:center;
+    color: #4c555c;
+    font-size: 11.5px;
+    padding: 24px 20px;
+  }
+</style>
+</head>
+<body>
+  <div class="hazard-strip"></div>
+  <header>
+    <div class="brand">
+      <div class="brand-mark">M</div>
+      <div class="brand-name">MOBIT · Almoxarifado</div>
+    </div>
+    <h1>Localização de itens</h1>
+    <p class="subtitle">Aponte a câmera para o QR Code da identificação do produto, ou digite o código abaixo.</p>
+  </header>
+
+  <main>
+    <div class="search-box">
+      <input id="codigo" type="text" inputmode="numeric" placeholder="Digite o código do item" autocomplete="off">
+      <button id="buscar">Buscar</button>
+    </div>
+
+    <div id="estado-vazio">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M11 3a8 8 0 100 16 8 8 0 000-16z"/><path d="M21 21l-4.3-4.3"/></svg>
+      <p>Nenhuma busca ainda.<br>Escaneie um QR Code ou digite um código de item.</p>
+    </div>
+
+    <div id="resultado">
+      <div id="status" class="status-line"></div>
+      <div id="produto-card-wrap"></div>
+      <p class="enderecos-label" id="enderecos-label" style="display:none;">Endereço no estoque</p>
+      <div id="placas"></div>
+    </div>
+  </main>
+
+  <footer>Consulta somente leitura · dados sincronizados manualmente pelo almoxarifado</footer>
+
+<script>
+const ZONA_COR = {
+  "Zona Azul": "var(--zona-azul)",
+  "Zona Amarela": "var(--zona-amarela)",
+  "Zona Verde": "var(--zona-verde)",
+  "Zona Roxa": "var(--zona-roxa)",
+  "Zona Vermelha": "var(--zona-vermelha)",
+  "Zona Cinza": "var(--zona-cinza)"
+};
+
+let PRODUTOS = {};
+
+async function carregarDados(){
+  try{
+    const res = await fetch('produtos.json', {cache: "no-store"});
+    const lista = await res.json();
+    lista.forEach(p => { PRODUTOS[p.codigo] = p; });
+  }catch(e){
+    console.error("Erro ao carregar produtos.json", e);
+  }
+}
+
+function normalizar(codigo){
+  return (codigo || "").toString().trim();
+}
+
+function renderResultado(codigoDigitado){
+  const codigo = normalizar(codigoDigitado);
+  const vazio = document.getElementById('estado-vazio');
+  const resultado = document.getElementById('resultado');
+  const status = document.getElementById('status');
+  const cardWrap = document.getElementById('produto-card-wrap');
+  const placas = document.getElementById('placas');
+  const label = document.getElementById('enderecos-label');
+
+  if(!codigo){ return; }
+
+  vazio.style.display = 'none';
+  resultado.style.display = 'block';
+
+  const produto = PRODUTOS[codigo];
+
+  if(!produto){
+    status.className = 'status-line err';
+    status.innerHTML = '<span class="dot"></span> Item não localizado';
+    cardWrap.innerHTML = `<div class="produto-card"><div class="produto-info">
+        <p class="produto-codigo">${codigo}</p>
+        <p class="produto-desc">Nenhum registro encontrado para este código. Verifique o código ou avise o almoxarifado.</p>
+      </div></div>`;
+    placas.innerHTML = '';
+    label.style.display = 'none';
+    return;
+  }
+
+  status.className = 'status-line ok';
+  status.innerHTML = '<span class="dot"></span> Item localizado com sucesso';
+
+  const imgHtml = produto.imagem
+    ? `<img src="${produto.imagem}" alt="${produto.descricao}" loading="lazy" onerror="this.parentElement.innerHTML='<span class=\\'sem-foto\\'>Sem foto</span>'">`
+    : `<span class="sem-foto">Sem foto</span>`;
+
+  cardWrap.innerHTML = `
+    <div class="produto-card">
+      <div class="produto-img">${imgHtml}</div>
+      <div class="produto-info">
+        <p class="produto-codigo">${produto.codigo}</p>
+        <p class="produto-desc">${produto.descricao || 'Descrição não cadastrada'}</p>
+      </div>
+    </div>`;
+
+  label.style.display = produto.enderecos.length ? 'block' : 'none';
+
+  placas.innerHTML = produto.enderecos.map(end => {
+    const cor = ZONA_COR[end.zona] || 'var(--zona-cinza)';
+    return `
+      <div class="placa" style="border-left-color:${cor}">
+        <div class="placa-zona" style="background:${cor}">${end.zona || '—'}</div>
+        <div class="placa-grid">
+          <div class="placa-campo"><div class="val">${end.rua ?? '—'}</div><div class="lbl">Rua</div></div>
+          <div class="placa-campo"><div class="val">${end.bloco ?? '—'}</div><div class="lbl">Bloco</div></div>
+          <div class="placa-campo"><div class="val">${(end.nivel || '').toString().replace('Nível ','') || '—'}</div><div class="lbl">Nível</div></div>
+          <div class="placa-campo"><div class="val">${end.posicao ?? '—'}</div><div class="lbl">Posição</div></div>
+        </div>
+        <div class="placa-almox"><span>Almoxarifado</span><span>${end.almoxarifado || '—'}</span></div>
+      </div>`;
+  }).join('');
+}
+
+document.getElementById('buscar').addEventListener('click', () => {
+  renderResultado(document.getElementById('codigo').value);
+});
+document.getElementById('codigo').addEventListener('keydown', (e) => {
+  if(e.key === 'Enter'){ renderResultado(e.target.value); }
+});
+
+(async function init(){
+  await carregarDados();
+  const params = new URLSearchParams(window.location.search);
+  const codigoUrl = params.get('codigo');
+  if(codigoUrl){
+    document.getElementById('codigo').value = codigoUrl;
+    renderResultado(codigoUrl);
+  }
+})();
+</script>
+</body>
+</html>
