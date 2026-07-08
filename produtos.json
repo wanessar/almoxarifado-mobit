@@ -1,0 +1,2405 @@
+[
+  {
+    "codigo": "090300052",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 39",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_938496-MLB109515246118_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300053",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 40",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300054",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 41",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700009",
+    "descricao": "LUVA DE SEG. PVC",
+    "imagem": "https://d3bhvz7al37iy6.cloudfront.net/Custom/Content/Products/10/46/1046412_luva-de-pvc-petronit-danny-36-cm-da-12-214d_l3_639177617166777152.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700037",
+    "descricao": "LUVA DE VAQUETA MISTA CANO LONGO",
+    "imagem": "https://m.magazineluiza.com.br/a-static/420x420/luva-de-vaqueta-mista-cano-longo-valcan-ca25387/dpbarbosamaqeferrltda/3609p/b18671f9ffd0fb93c96818f7ceb4c44d.jpeg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700006",
+    "descricao": "LUVA DE PANO PIGMENTADA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_832291-MLB79736056916_102024-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090800005",
+    "descricao": "PROTETOR AURICULAR TIPO PLUG",
+    "imagem": "https://m.media-amazon.com/images/I/51AmbdlNqVL.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900235",
+    "descricao": "FITA DE ANCORAGEM",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_896036-MLA99993168805_112025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700019",
+    "descricao": "LUVA DE COBERTURA  P/ LUVA DE BORRACHA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_787074-MLB89738050072_082025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700055",
+    "descricao": "LUVA ANTICORTE EDGE T8",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0THdemtaLxqFLkcFrbdGgWhtc9fx1RLXm-5e9ZOrU5bYxtaghKHS2ddY06QvpabjlzL16QNAAJ1sTW-BYnGOzmsW2VIY928ZEQlgS0hXOfP78SrM_p-zIeg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700056",
+    "descricao": "LUVA ANTICORTE EDGE T9",
+    "imagem": "https://dimensionalstoreb2b.vtexassets.com/arquivos/ids/264229-1200-968?v=638162288011400000&width=1200&height=968&aspect=true",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700017",
+    "descricao": "LUVA DE VAQUETA MISTA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_754404-MLB82733750459_022025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700021",
+    "descricao": "MANGOTE DE COURO PARA SOLDADOR",
+    "imagem": "https://protegevistoria.com.br/wp-content/uploads/2021/08/Mongote-de-Coro.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100021",
+    "descricao": "FILTRO P1 P/ RESPIRADOR ADVANTAGE 200LS",
+    "imagem": "https://assetlibrary.msasafety.com/transform/12adf326-8ea4-4a41-a878-3b70498dded0/AdvantagePre-Filters_000100001000001261?io=transform:extend,height:500,width:500,background:FFFFFF",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100002",
+    "descricao": "MASCARA P/ SOLDADOR",
+    "imagem": "https://coferatacadista.agilecdn.com.br/27121_1.jpg?v=430-2991246248",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 1",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100000",
+    "descricao": "PROTETOR FACIAL N.8",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTtlYb97vpxaffDHwhmvKEfPa2bo9xublNo3gdAAKvDdJqv9_rtmKxtnNQIJ_8B9Lx_z9IC_DLDdbMQdNanNdFV55f_8nsDXFGcpZbH0eWX3mtCXB5NybwtG8bglH6y_asd9xyOy0Ius0&usqp=Cac",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "A",
+        "nivel": "Nível 1",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300055",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 42",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300056",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 43",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300057",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 44",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700003",
+    "descricao": "LUVA LATEX",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_811291-MLA103618008849_012026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100019",
+    "descricao": "CARTUCHO QUIMICO MSA GMC BAIONETA – VAPORES ORGANICOS",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_647253-MLB29154651890_012019-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100020",
+    "descricao": "ANEL PRENDEDOR FILTRO MAS BAIONETA ",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeqG91erIWwQbwVt6XeKNoQVXQ1yQQd09yeG6QUSx0cZ-1fDxAoIixtxVoeebHmyE0amIxqNTlXZe1_4UHwsVUJwv0dr9-t-lkp6_B5IoId-bte8a1LZyBzls",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700031",
+    "descricao": "LUVA DE SEG TRICOT EM NYLON PRETA TAM P",
+    "imagem": "https://www.danny.com.br/public/files/flextactil-pt.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700032",
+    "descricao": "LUVA DE SEG TRICOT EM NYLON PRETA TAM M",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeisIoEHqHnuTUYkBesFdtpreNgaIpVKZoSKyHC8mfxujFzPhcUdcBmRyTAEdMM1SjhigKi-z3lwrTcVCffITQCNYNHtM23N6zRt1N6Tu9dyvzU1DXoQmQfg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700033",
+    "descricao": "LUVA DE SEG TRICOT EM NYLON PRETA TAM G",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBGsLEEsFYC5BeyM_E3im28KrOQlHFz8tH_T0WAZ8sZxC0ct0BnYG5XMLOi5S0UFLoU_HQao6iR1xxB8lNTKqkvvKBDaTpaeCL_N25hk6GSHoSRvb83IeS",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700050",
+    "descricao": "LUVA ISOLANTE CLASSE 00",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lrdin4z5vjnfd6.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900220",
+    "descricao": "BALACLAVA MAICOL SUEDINE AZUL",
+    "imagem": "https://thfvnext.bing.com/th?id=OPHS.lPu5%2bKswbR8xpQ474C474&w=144&h=130&c=17&o=6&pid=21.1&dpr=2",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900221",
+    "descricao": "BALACLAVA MAICOL SUEDINE LARANJA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783522449155-chatgpt-image-8-de-jul-de-2026-11-53-53.png",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700030",
+    "descricao": "LUVA DE PROTECAO PARA MOTOCICLISTA",
+    "imagem": "https://m.media-amazon.com/images/I/61xlZIvyydL._AC_SX679_.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100026",
+    "descricao": "APOIO DE PULSO PARA NOTEBOOK",
+    "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkhp17M1WIyzKfdl8RzfVc2xR1dcD6nK-Y8c4ks3VHf3rb4TjzzdB0SSK-m1ZLJiN1rL129OOuM8r7NLfEiSgK6lrzB7QJIsDzOoTCxBAjXBPIzEGZZjbvJxg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900225",
+    "descricao": "MOSQUETAO OVAL EM ACO 23KN EM ROSCA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_657905-MLB99035715076_112025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "B",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300058",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 45",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300008",
+    "descricao": "BOTA DE BORRACHA CANO CURTO TAM-35",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_887555-MLB79692676989_102024-F-bota-galocha-preta-pvc-cano-26-cm-bracol.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300009",
+    "descricao": "BOTA DE BORRACHA CANO CURTO TAM-36",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_887555-MLB79692676989_102024-F-bota-galocha-preta-pvc-cano-26-cm-bracol.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090700023",
+    "descricao": "BANDEIROLA DE SINALIZACAO LARANJA COM CABO DE MADEIRA 50CMX 50CM",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781596-MLB89340546571_082025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090500006",
+    "descricao": "CINTA LOMBAR ERGONOMICA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_811768-MLA111240762759_052026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900435",
+    "descricao": "CORDAO PARA APITO OU CHACA COM 01 PONTA 40 CM",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKZN1yQE_WTCH3eO7lYyhEsgnlc6NGDXCJ0UEGQpxuglacZWOGzfypFv9gG8YP2DSJlM0OGq4oE6Z8aM2_iZ2p1vJcTCwJ9BqcOS4-35ipAJovPrqxln1a",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900098",
+    "descricao": "CARNEIRA 3M COM CATRACA H-700",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_658851-MLA112807167045_062026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100010",
+    "descricao": "APOIO DE PULSO PARA TECLADO",
+    "imagem": "https://lojamultilaser.vtexassets.com/arquivos/ids/1513668-1200-auto?v=638931276617900000&width=1200&height=auto&aspect=true",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090800015",
+    "descricao": "KIT DE PRESILHAS DE JOELHEIRA E COTOVELEIRA DE MOTOCICLISTA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783515257363-presilhas-motociclista.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900003",
+    "descricao": "AVENTAL PROT. PVC",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_811281-MLA95555053433_102025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900110",
+    "descricao": "MACACAO DUVEK 2000 PARA PRODUTOS QUIMICOS",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVH5x4v1h6Kiil7jvJY9Q9e3kFyJAbL__ckJrqkECDEqoICWhzrZaowrtGkoKeKKc-G_xf224nhVh0UmBtpTWsSovRRDlgcWjW5NemfnTTGWnMa-y0EwmYS7k",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900273",
+    "descricao": "CAPA DE CHUVA EM PVC COM CAPUZ TAM GG",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752747-MLB103237823450_012026-F-capa-de-chuva-pvc-forrado-amarela-impermeavel-com-capuz-ca.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900272",
+    "descricao": "CAPA DE CHUVA EM PVC COM CAPUZ TAM G",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752747-MLB103237823450_012026-F-capa-de-chuva-pvc-forrado-amarela-impermeavel-com-capuz-ca.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900117",
+    "descricao": "MACACAO PARA APICULTURA TAM-G",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqsX9tQlUlV2VI1rGIEjxaeWAac69Q1peFq9cvWl7UrkIydxrMDaIu4XXBPowp3NpUCzZeQlMMRGiJ7Cha-mwTUOoNFkFHFQYChBWFr-i81Cl7jnDt4dJ8Kg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900188",
+    "descricao": "SUPORTE PARA NOTEBOOK",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_718560-MLA105823371537_012026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "C",
+        "nivel": "Nível 1",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300047",
+    "descricao": "COTURNO MILITAR EM COURO PARA MOTOCICLISTA TAM 42",
+    "imagem": "https://dcdn-us.mitiendanube.com/stores/007/639/773/products/1-077dbcfa33a5148c2217798026459539-1024-1024.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "D",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900209",
+    "descricao": "CANTIL TERMICO 1L",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfrvikRgpa6n4V7RERtwsssPw31xZhimaAKyga9SSox2JpmKP1eZLC_Q-2xKdZ30m8yg4q-UJDT3beglbTl_zePkVunOalRpGL6_OejHYZdbYxZcKc8Jcp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "D",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900195",
+    "descricao": "CALCA EM BRIM VERDE COM FAIXAS REFLETIVAS VIA LIVRE TAM P",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532378537-calca-brim-verde-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "D",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900189",
+    "descricao": "CAMISA GOLA CARECA LARANJA VIA LIVRE TAM P",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "D",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900202",
+    "descricao": "BATA M/L EM BRIM VERDE COM FAIXA REFLETIVA VIA LIVRE TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534952775-bata-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "D",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900102",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-39",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "E",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900104",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM 43",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "E",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900197",
+    "descricao": "CALCA EM BRIM VERDE COM FAIXAS REFLETIVAS VIA LIVRE TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532378537-calca-brim-verde-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "E",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090500002",
+    "descricao": "TALABARTE DUPLO",
+    "imagem": "https://www.dully.com.br/wp-content/uploads/2022/10/DLTABS-09.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "E",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090500005",
+    "descricao": "CINTO PARAQUEDISTA MOD. PQ3/PF/RS/ALC COM AJUSTE SUPERIOR",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLvXeVeXdmdXXoLukp6UT3ZH9fhSbemwedK9rmyvLxUCCDZDTmoSi7ATKslQW10ADneQhAvadpmxM1XVeazKGwkMaubbs7N8Ktf5GRVO47XZyHILdHMOD0rgv4YmkileFvLv4df-I&usqp=Cac",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "E",
+        "nivel": "Nível 1",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900051",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM 42",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900105",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-45",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900205",
+    "descricao": "BATA M/L EM BRIM VERDE COM FAIXA REFLETIVA VIA LIVRE TAM XG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534952775-bata-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900193",
+    "descricao": "CAMISA GOLA CARECA LARANJA VIA LIVRE TAM XG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900206",
+    "descricao": "BATA M/L EM BRIM VERDE COM FAIXA REFLETIVA VIA LIVRE TAM XGGG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534952775-bata-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900200",
+    "descricao": "CALCA EM BRIM VERDE COM FAIXAS REFLETIVAS VIA LIVRE TAM XGGG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532378537-calca-brim-verde-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900194",
+    "descricao": "CAMISA GOLA CARECA LARANJA VIA LIVRE TAM XGGG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900215",
+    "descricao": "BATA M/L EM BRIM VERDE COM FAIXA REFLETIVA VIA LIVRE TAM EXGGGGG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534952775-bata-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900213",
+    "descricao": "CALCA EM BRIM VERDE COM FAIXAS REFLETIVAS VIA LIVRE TAM EXGGGGG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532378537-calca-brim-verde-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 1,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900207",
+    "descricao": "BONE ARABE VERDE VIA LIVRE TAM U",
+    "imagem": "",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300063",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 35",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300064",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 36",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900266",
+    "descricao": "BERMUDA FEMININA TAM. GG EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900265",
+    "descricao": "BERMUDA FEMININA TAM. G EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900240",
+    "descricao": "BERMUDA FEMININA TAM. P EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900255",
+    "descricao": "BERMUDA MASCULINA TAM. G EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900237",
+    "descricao": "BERMUDA FEMININA TAM. PP EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900253",
+    "descricao": "BERMUDA MASCULINA TAM. P EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900238",
+    "descricao": "CAMISA GOLA CARECA FEMININA TAM.P BABYLOOK EM MALHA  PV LARANJA, \" MANGA CURTA COM 1 SILK FRENTE (VIA LIVRE) COM SILK (FRENTE E COSTA) E BORDADO NAS MANGAS",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900268",
+    "descricao": "CAMISA GOLA CARECA FEMININA TAM.G BABYLOOK EM MALHA  PV LARANJA, \" MANGA CURTA COM 1 SILK FRENTE (VIA LIVRE) COM SILK (FRENTE E COSTA) E BORDADO NAS MANGAS",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900267",
+    "descricao": "CAMISA GOLA CARECA FEMININA TAM.M BABYLOOK EM MALHA  PV LARANJA, \" MANGA CURTA COM 1 SILK FRENTE (VIA LIVRE) COM SILK (FRENTE E COSTA) E BORDADO NAS MANGAS",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900256",
+    "descricao": "BERMUDA MASCULINA TAM. GG EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900270",
+    "descricao": "CAMISA GOLA CARECA FEMININA EM MALHA TAM. G EM POLIAMIDA COM PROTECAO UV LARANJA DA FARBE, MANGA LONGA SEM LOGOMARCA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900258",
+    "descricao": "BERMUDA MASCULINA TAM. EXTRA XGG EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA                                           ",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "A",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300066",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 38",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300067",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 39",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300068",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 40",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900248",
+    "descricao": "CALCA JEANS FEMININO MOBIT TAM 38",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900241",
+    "descricao": "BERMUDA FEMININA TAM. M EM BRIM CEDRO VERDE 4198 COM 05 BOLSOS (SENDO 02 TIPO FACA, 02 CARGO LATERAL E 01 COSTA COM FITA REFLETIVA DE 2,5CM NA PERNA",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532071615-bermuda-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900179",
+    "descricao": "CAMISA POLO AZUL COM LOGO MOBIT TAM PP",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534073369-camisa-mobit-adm.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900163",
+    "descricao": "CAMISA POLO AZUL COM LOGO MOBIT TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534073369-camisa-mobit-adm.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900162",
+    "descricao": "CAMISA POLO AZUL COM LOGO MOBIT TAM P",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534073369-camisa-mobit-adm.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900243",
+    "descricao": "CAMISA GOLA CARECA FEMININA TAM. EXG BABYLOOK EM MALHA  PV LARANJA, \" MANGA CURTA COM 1 SILK FRENTE (VIA LIVRE) COM SILK (FRENTE E COSTA) E BORDADO NAS MANGAS",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900242",
+    "descricao": "CAMISA GOLA CARECA FEMININA TAM. GG BABYLOOK EM MALHA  PV LARANJA, \" MANGA CURTA COM 1 SILK FRENTE (VIA LIVRE) COM SILK (FRENTE E COSTA) E BORDADO NAS MANGAS",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532607313-camisa-gola-careca-via-livre.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900164",
+    "descricao": "CAMISA POLO AZUL COM LOGO TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534073369-camisa-mobit-adm.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900165",
+    "descricao": "CAMISA POLO AZUL COM LOGO MOBIT TAM GG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783534073369-camisa-mobit-adm.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900259",
+    "descricao": "CAMISA GOLA CARECA MASCULINA EM MALHA TAM. P EM POLIAMIDA COM PROTECAO UV LARANJA DA FARBE, MANGA LONGA SEM LOGOMARCA                                                                                   ",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_904715-MLB112222267154_062026-F-camisa-com-proteco-solar-uv-50-e-mangas-longas-laranja.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "B",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "129900941",
+    "descricao": "JOELHEIRA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_780953-MLB81054353889_112024-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "120900001",
+    "descricao": "COTOVELEIRA",
+    "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6IPhPH0CTkqjo7jrxmsaUaCGb8_ktTqs8RPqXHEumGN3JJfrNbnCt4sDfPN0Wa0xxApCKLOghptgty4HS4u5AZP5N3HusegUAiwhZaz-NIbKbe8yhgpaMrw",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090400011",
+    "descricao": "CAPACETE ABA TOTAL C/ JULGULAR E CARNEIRA PARA ELETRICISTA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_747693-MLB44812898846_022021-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900149",
+    "descricao": "COLETE LARANJA MOBIT COM FITAS REFLETIVAS TIPO JAQUETA TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532776304-colete-laranja.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900160",
+    "descricao": "TOUCA ARABE LARANJA MOBIT",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783533069542-touca-arabe-laranja.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900161",
+    "descricao": "TOUCA ARABE AZUL MOBIT",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783533164614-touca-arabe-azul.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900158",
+    "descricao": "JALECO AZUL MOBIT TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532823712-jaleco-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900157",
+    "descricao": "JALECO AZUL MOBIT TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532823712-jaleco-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900226",
+    "descricao": "CAPA DE CHUVA EM PVC COM CAPUZ E FAIXA REFLETIVA TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783533645335-capa-de-chuva.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900227",
+    "descricao": "CAPA DE CHUVA EM PVC COM CAPUZ E FAIXA REFLETIVA TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783533645335-capa-de-chuva.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900229",
+    "descricao": "CAPA DE CHUVA EM PVC COM CAPUZ E FAIXA REFLETIVA TAM EX",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783533645335-capa-de-chuva.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900159",
+    "descricao": "JALECO AZUL MOBIT TAM GG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532823712-jaleco-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "C",
+        "nivel": "Nível 1",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300079",
+    "descricao": "BOTA DE SEGURANCA PARA ELETRICISTA TAM 40",
+    "imagem": "https://ferramentasgerais.vteximg.com.br/arquivos/ids/942288/Botina-de-seguranca-para-eletricista-n%C2%BA-40-4045BELF4600EL-BRACOL---4045BELF4600EL---40---BRACOL.jpg?v=638918369122870000",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300080",
+    "descricao": "BOTA DE SEGURANCA PARA ELETRICISTA TAM 42",
+    "imagem": "https://ferramentasgerais.vteximg.com.br/arquivos/ids/942288/Botina-de-seguranca-para-eletricista-n%C2%BA-40-4045BELF4600EL-BRACOL---4045BELF4600EL---40---BRACOL.jpg?v=638918369122870000",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090400005",
+    "descricao": "CAPACETE BRANCO COM VENTILACAO - MARCA 3M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822767-MLA96083661407_102025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900126",
+    "descricao": "CALCA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM P",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532178063-calca-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900144",
+    "descricao": "CAMISA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM P",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532541504-camisa-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900127",
+    "descricao": "CALCA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM M",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532178063-calca-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900128",
+    "descricao": "CALCA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532178063-calca-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900146",
+    "descricao": "CAMISA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM G",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532541504-camisa-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900129",
+    "descricao": "CALCA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM GG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532178063-calca-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900147",
+    "descricao": "CAMISA BRIM LARANJA MOBIT COM FITAS REFLETIVAS TAM GG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532541504-camisa-brim-laranja-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "D",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090400004",
+    "descricao": "CAPACETE LARANJA COM VENTILACAO - MARCA 3M",
+    "imagem": "https://m.magazineluiza.com.br/a-static/420x420/capacete-3m-c-carneira-ca29638-3m-do-brasil-ltda/dpbarbosamaqeferrltda/2775-95/8b0af6ab58ec22ba3fd11044fbabbde2.jpeg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900103",
+    "descricao": "",
+    "imagem": "",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900153",
+    "descricao": "CONJUNTO AZUL OXFORD MOBIT TAM 40",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532979398-conjunto-oxford.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900154",
+    "descricao": "CONJUNTO AZUL OXFORD MOBIT TAM 42",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532979398-conjunto-oxford.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900155",
+    "descricao": "CONJUNTO AZUL OXFORD MOBIT TAM 44",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532979398-conjunto-oxford.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900142",
+    "descricao": "CAMISA POLO MOBIT M/L AZUL COM FITAS REFLETIVAS TAM GG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532667901-camisa-ml-com-fita-refletiva-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900143",
+    "descricao": "CAMISA POLO MOBIT M/L AZUL COM FITAS REFLETIVAS TAM EXG",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532667901-camisa-ml-com-fita-refletiva-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "E",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300073",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 45",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300072",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 44",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300071",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 43",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      },
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900186",
+    "descricao": "CONJUNTO PRETO OXFORD MOBIT TAM 46",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532979398-conjunto-oxford.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900130",
+    "descricao": "CALCA JEANS MOBIT TAM 38",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900134",
+    "descricao": "CALCA JEANS MOBIT TAM 46",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900135",
+    "descricao": "CALCA JEANS MOBIT TAM 48",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900136",
+    "descricao": "CALCA JEANS MOBIT TAM 50",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900137",
+    "descricao": "CALCA JEANS MOBIT TAM 52",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900138",
+    "descricao": "CALCA JEANS MOBIT TAM 54",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532461861-calca-jeans-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300070",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 42",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300069",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 41",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090800004",
+    "descricao": "PROTETOR AURICULAR TIPO CONCHA",
+    "imagem": "https://cdn.ferramentaskennedy.com.br/storage/kennedy/1000/protetor-auricular-em-concha-wk60-10db-worker17807106674002310.avif",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100004",
+    "descricao": "CARTUCHO PARA RESPIRADOR CARBOGRAFITE CG-306",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_649691-MLB88710737932_072025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100024",
+    "descricao": "RESPIRADOR CARBOGRAFITE CG-304N",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_803749-MLB86413749368_062025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090800011",
+    "descricao": "PROTETOR SOLAR FPS 60 NUTRIEX 120 ML",
+    "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSThxzNUDiQ0G3As-4go6PcO_FajqqdXZFaEPYlLxcslVFHf4IFhFLKGL5JSesilzxe9CI8y4pBVSfGM1h3DuIDE2AOJ3BlZZzs39JlfPxhDA_AM8SfN4ov-NI",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090800010",
+    "descricao": "REPELENTE DE INSETOS EM SPRAY",
+    "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTn8fDtPETu4YMGp5GhUk72dhJd8ovDBDzUGmU0tnkg4AjNL85hQA6g19EMhLZSVNYQafNvGSPSvOBVjZHOxMs-CtwFralJz8S_73rnfYTmsU4da-O1ZRVbOxU",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 4",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090100008",
+    "descricao": "MASCARA DESCARTAVEL PFF2",
+    "imagem": "https://m.magazineluiza.com.br/a-static/420x420/respirador-ksn-azul-pff2-kit-10-pecas-mascara-n95-epi-ca/prosekepi/1002az10/f68cbb47710dd93021cb6f86c7f2d0d9.jpeg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200004",
+    "descricao": "OCULOS DE SOBREPOR ESCURO",
+    "imagem": "https://cdn.leroymerlin.com.br/products/oculos_de_seguranca_persona_protecao_uv_sobrepor_danny_ca_164_1572448642_22d4_600x600.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200005",
+    "descricao": "OCULOS DE PROTECAO, LENTE CINZA, TIPO AGUIA MARCA DANNY",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_979717-MLB98867499131_112025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 3",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200006",
+    "descricao": "OCULOS DE PROTECAO, INCOLOR,AGUIA MARCA DANNY",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_794679-MLB98416624498_112025-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 3",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200001",
+    "descricao": "OCULOS DE PROTECAO, LENTE ESCURA, MARCA 3M",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/1262471/oculos_de_protecao_3m_vision_3000_lente_cinza_c_a_12572_3143_1_55e79c73ec354ca0fe7203a5f65d439e.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200002",
+    "descricao": "OCULOS DE PROTECAO, LENTE INCOLOR, MARCA 3M",
+    "imagem": "https://m.media-amazon.com/images/I/51qGbmWB7eL._AC_SX679_.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090200003",
+    "descricao": "OCULOS DE SOBREPOR INCOLOR",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/1033319/oculos_seguranca_sobrepor_persona_lente_incolor_ca_16462_1439_1_6a65b8fc18e9bb52c75e1f7a2fa74215.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 2",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090500003",
+    "descricao": "TALABARTE SIMPLES",
+    "imagem": "https://cdn.awsli.com.br/2500x2500/2660/2660197/produto/276485951/1718984054589-lrjcxn5b9c.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": 2,
+        "bloco": "F",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300060",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 36",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300051",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 38",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 6",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900099",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-35",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900100",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-36",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 2,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900101",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-37",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 5",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900174",
+    "descricao": "SACOLA DE EPI MOBIT",
+    "imagem": "https://cdn.jsdelivr.net/gh/wanessar/imagens-produtos@main/produtos/1783532867270-sacola-de-epi-mobit.jpg",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "099900053",
+    "descricao": "BOTA DE BORRACHA CANO LONGO TAM-38",
+    "imagem": "https://www.ferragenssaocarlos.com.br/media/catalog/product/b/o/bota-pvc-pt-bracol_6_5_1.jpg?width=700&height=700&store=default&image-type=image",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 4",
+        "posicao": 3,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300059",
+    "descricao": "BOTA DE COURO S/ BI DE ACO BRACOL TAM 37",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 3",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300061",
+    "descricao": "BOTA DE COURO S/ BI DE ACO TAM 35",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_915963-MLB109515246116_042026-F.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 2",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  },
+  {
+    "codigo": "090300065",
+    "descricao": "BOTA DE COURO S/ BI DE ACO COM CADARCO TAM 37",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633244-MLB79775163032_102024-F-bota-botina-de-seguranca-cadarco-bracol-usafe-bico-pvc-epi.webp",
+    "enderecos": [
+      {
+        "zona": "Zona Verde",
+        "rua": "ESTANTE 1",
+        "bloco": "A",
+        "nivel": "Nível 1",
+        "posicao": 1,
+        "almoxarifado": "Almoxarifado 16"
+      }
+    ]
+  }
+]
