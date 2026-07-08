@@ -72,10 +72,6 @@
  .et-qr{ width:76px; height:76px; flex-shrink:0; }
  .et-qr img{ width:100%; height:100%; }
  .et-desc{ font-size:11.5px; line-height:1.3; font-weight:600; }
- .et-endereco{
-   font-family:ui-monospace,monospace; font-size:10.5px; color:#444;
-   padding:6px 10px; border-top:1px solid #eaeaea; background:#fafafa;
- }
  @media print{
    header, .controls, #status, .hazard-strip{ display:none; }
    body{ background:#fff; }
@@ -122,11 +118,6 @@ async function gerar(){
  status.textContent = `Gerando ${produtos.length} etiqueta(s)...`;
  produtos.forEach(p => {
    const url = `${baseUrl}?codigo=${encodeURIComponent(p.codigo)}`;
-   const end = (p.enderecos && p.enderecos[0]) || {};
-   const enderecoTexto = [
-     end.zona, end.rua ? `Rua ${end.rua}` : null, end.bloco ? `Bloco ${end.bloco}` : null,
-     end.nivel, end.posicao ? `Posição ${end.posicao}` : null
-   ].filter(Boolean).join(' · ');
    const card = document.createElement('div');
    card.className = 'etiqueta';
    card.innerHTML = `
@@ -138,7 +129,6 @@ async function gerar(){
 <div class="et-qr" id="qr-${p.codigo}"></div>
 <div class="et-desc">${p.descricao || 'Descrição não cadastrada'}</div>
 </div>
-<div class="et-endereco">${enderecoTexto || 'Sem endereço cadastrado'}</div>
    `;
    folha.appendChild(card);
    new QRCode(document.getElementById(`qr-${p.codigo}`), {
