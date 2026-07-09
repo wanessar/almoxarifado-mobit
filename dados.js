@@ -7,8 +7,8 @@ function linksConfigurados(){
   return (
     typeof CADASTRO_CSV_URL === 'string' &&
     typeof ENDERECO_CSV_URL === 'string' &&
-    !CADASTRO_CSV_URL.includes('COLE_AQUI') &&
-    !ENDERECO_CSV_URL.includes('COLE_AQUI')
+    !CADASTRO_CSV_URL.includes('https://docs.google.com/spreadsheets/d/e/2PACX-1vSIv_V0A98zeOPbemK78cVyhxy7BEViC6gBDfaJUcibGMbLICGdF62fcmLecqH2IEIs358FGA7pPU2i/pub?gid=1985419877&single=true&output=csv') &&
+    !ENDERECO_CSV_URL.includes('https://docs.google.com/spreadsheets/d/e/2PACX-1vSIv_V0A98zeOPbemK78cVyhxy7BEViC6gBDfaJUcibGMbLICGdF62fcmLecqH2IEIs358FGA7pPU2i/pub?gid=80212742&single=true&output=csv')
   );
 }
 
