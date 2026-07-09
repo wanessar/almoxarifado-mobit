@@ -260,7 +260,7 @@ function renderEtiquetas(produtos, baseUrl, tamanho){
   const qrPx = tamanhoPixelsQr(tamanho);
 
   produtos.forEach(p => {
-    const url = `${baseUrl}?codigo=${encodeURIComponent(p.codigo)}`;
+    const url = `${baseUrl}?c=${encodeURIComponent(p.codigo)}`;
     const descricao = p.descricao || 'Descrição não cadastrada';
 
     const card = document.createElement('div');
